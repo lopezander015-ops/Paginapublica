@@ -1,0 +1,47 @@
+body{
+    background-color: pink;
+    margin: 0;
+    font-family: cursive;
+}
+.encabezado {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 20px;
+    border-bottom: 2px solid #fae;
+    box-shadow: 0 0 30px 0 #Fbf;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 70px;
+    border-radius: 10px; 
+    border: 2px solid #eee9; 
+    padding: 4px 10px; 
+    margin: 0;
+    box-shadow: 0 0 20px 0 #fff8;
+}
+img {
+     width: 80px; 
+     height:80px; 
+     margin-left: 30px;
+}
+
+.carta_1 {
+    margin:auto;
+    margin-top: 50px;
+    border: 2px solid #eee;
+    border-radius: 20px;
+    padding: 10px 30px;
+    text-align: center;
+    width: 200px;
+    box-shadow: 0 0 20px #f3e7;
+}
+.Sub_1 {
+    font-size: 30px;
+
+}
+
+img {
+    margin-right: 35px;
+}
